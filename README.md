@@ -36,7 +36,7 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 - The dataset was provided by https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset.
 
-##Images
+
 ![download](https://github.com/yasanga/Brain-Tumor-Identification/assets/48192804/436b2591-0c04-4ef6-8a5c-107d5ee01398)
 ![download (1)](https://github.com/yasanga/Brain-Tumor-Identification/assets/48192804/4e74643d-48f7-4642-896f-023b41ae780c)
 
