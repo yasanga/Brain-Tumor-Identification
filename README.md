@@ -13,11 +13,6 @@ This project involves the classification of brain tumors using a Convolutional N
 The dataset used for this project consists of MRI images of brain tumors. It includes labeled data for different types of brain tumors.
 
 ## Requirements
-- Python 3.x
-- TensorFlow
-- Keras
-- NumPy
-- Matplotlib
 - scikit-learn
 - Jupyter Notebook
 
@@ -40,3 +35,6 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 - The dataset was provided by https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset.
+
+![download (1)](https://github.com/yasanga/Brain-Tumor-Identification/assets/48192804/4e74643d-48f7-4642-896f-023b41ae780c)
+![download](https://github.com/yasanga/Brain-Tumor-Identification/assets/48192804/436b2591-0c04-4ef6-8a5c-107d5ee01398)
